@@ -5,12 +5,4 @@
   <groupId>com.rad</groupId>
   <artifactId>math</artifactId>
   <version>0.1</version>
-  <dependencies>
-    <dependency>
-      <groupId>org.projectlombok</groupId>
-      <artifactId>lombok</artifactId>
-      <version>1.16.4</version>
-      <scope>runtime</scope>
-    </dependency>
-  </dependencies>
 </project>

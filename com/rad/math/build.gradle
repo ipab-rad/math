@@ -22,13 +22,12 @@ publishing {
             from components.java
         }
     }
-    println configurations.runtime.allDependencies
 }
 
 publishing {
     repositories {
         maven {
-            url 'https://github.com/ipab-rad/rad-utils/raw/master'
+            url 'https://raw.githubusercontent.com/ipab-rad/rad_utils/master'
         }
     }
 }
