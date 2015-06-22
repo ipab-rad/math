@@ -27,7 +27,7 @@ publishing {
 publishing {
     repositories {
         maven {
-            url 'https://raw.githubusercontent.com/ipab-rad/rad_utils/master'
+            url 'https://raw.githubusercontent.com/ipab-rad/rad_utils/master/releases'
         }
     }
 }
